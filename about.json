@@ -5,5 +5,5 @@
   "component": "true"  ,
   "assets": {
     "icons-sprite": "/assets/sup.svg"
-  },
+  }
 }
