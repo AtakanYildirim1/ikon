@@ -1,0 +1,21 @@
+span.category-badge-icon {
+  display: inline-flex;
+  align-self: center;
+  .d-icon {
+    opacity: 1;
+    font-size: 1.3em;
+  }
+}
+
+.categories-list .category h3 .d-icon,
+.badge-wrapper .badge-category .d-icon {
+  margin-right: 5px;
+}
+
+.categories-list .category .category-icon .d-icon {
+  color: inherit;
+}
+
+.categories-list .category-box-heading h3 div {
+  display: inline;
+}
